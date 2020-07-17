@@ -1,14 +1,14 @@
 #### Build your first Selenium test with Selenium, ChromeDriver, Java, Maven, JUnit, and IntelliJ IDEA.
 
-This guides assumes zero starting knowledge of Java, IntelliJ, Maven, JUnit, or Selenium. Once IntelliJ, Java, and Maven are installed the total time to complete this guide is about 15 minutes. Instructions are written for macOS users (though they can be easily adapted to Linux of Windows).
+This guides assumes zero starting knowledge of Java, IntelliJ, Maven, JUnit, ChromeDriver, or Selenium. Once IntelliJ, Java, Maven, and ChromeDriver are installed the total time to complete this guide is about 10-15 minutes. Instructions are written for macOS users (though they can be easily adapted to Linux of Windows).
 
-#### A user walking through this guide will get hands-on experience/exposure to the following technologies:
+#### A user walking through this guide will get hands-on experience with the following technologies:
 1. IntelliJ IDEA - One of the most popluar IDE's for Java
 2. Java - One of the most popular programming languages
 3. Apache Maven - Project Management Tool for Java projects
 4. Selenium - Tool for automating web application testing
 5. JUnit - Unit testing framework for Java
-6. ChromeDriver - Standalone server which implements W3C WebDriver standard"
+6. ChromeDriver - Standalone server which "implements W3C WebDriver standard"
 
 ##### Step 1. Install Java and Maven
 * Run ```javac -version``` in your terminal, if you get an error instead of a response like ```javac 14.0.2``` then you need to install Java, which you can do by following the prompts [here](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) (which will install the Java SE Development Kit).
